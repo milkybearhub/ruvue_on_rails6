@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このドキュメントは現在作成中です。
 
-Things you may want to cover:
+## Versions
+* Ruby 2.6.3
+* Ruby on Rails 6.0.0
+* Vue.js 2.6.10
+* Webpack 4.40.2
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 参考
+[Rails環境でJS , CSSをwebpackで完全に管理する](https://qiita.com/geek_shanshan/items/8f348734d95d9ece9576)
